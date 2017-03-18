@@ -12,6 +12,7 @@ namespace Program
 				Console.Write("{0} ", i);
 			}
 			Console.WriteLine();
+			Console.WriteLine("Goodby!!!");
 			Console.ReadLine();
 		}
 	}
